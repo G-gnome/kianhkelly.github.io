@@ -12,4 +12,4 @@ links:
   email: kkell060@ucr.edu
 ---
 
-Kian joined the lab in 2023 after completing a BS from Fort Lewis College
+Kian studies Mortierellomycotina fungi in aridlands.
